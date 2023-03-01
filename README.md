@@ -1,7 +1,7 @@
-<Doctype! html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>The signup form</title>
+<title>login page</title>
 <link rel="stylesheet" type="text/css" href="login.css" media=”screen” />
 </head>
 <body>
