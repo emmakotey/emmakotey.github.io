@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>login page</title>
-<link rel="stylesheet" type="text/css" href="login.css" media=”screen” />
+	<title>login page</title>
+	<link rel="stylesheet" type="text/css" href="login.css" media=”screen” />
 </head>
 <body>
 <form action="action_page.php" method="post">
